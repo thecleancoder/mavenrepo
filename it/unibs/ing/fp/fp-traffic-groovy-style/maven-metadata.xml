@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>it.unibs.ing.fp</groupId>
+  <artifactId>fp-traffic-groovy-style</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120731120925</lastUpdated>
+  </versioning>
+</metadata>

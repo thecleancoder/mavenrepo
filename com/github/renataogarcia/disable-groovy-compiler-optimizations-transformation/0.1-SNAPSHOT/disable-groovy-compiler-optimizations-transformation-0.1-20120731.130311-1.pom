@@ -5,5 +5,4 @@
   <groupId>com.github.renataogarcia</groupId>
   <artifactId>disable-groovy-compiler-optimizations-transformation</artifactId>
   <version>0.1-SNAPSHOT</version>
-  <description>POM was created from install:install-file</description>
 </project>
