@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.amicofragile.javapeanuts</groupId>
+  <artifactId>javapeanuts-web-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120801083836</lastUpdated>
+  </versioning>
+</metadata>
