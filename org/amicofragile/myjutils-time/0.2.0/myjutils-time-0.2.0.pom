@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<parent>
+		<artifactId>myjutils</artifactId>
+		<groupId>org.amicofragile</groupId>
+		<version>0.2.0</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.amicofragile</groupId>
+	<artifactId>myjutils-time</artifactId>
+	<name>myjutils-time</name>
+	<version>0.2.0</version>
+	<description>Time related utility classes</description>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<type>jar</type>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.amicofragile</groupId>
+			<artifactId>myjutils-testing</artifactId>
+			<version>0.2.0</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+</project>
