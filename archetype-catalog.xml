@@ -11,9 +11,45 @@
     </archetype>
     <archetype>
       <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-aggregator</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-aggregator</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-aggregator</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-aggregator</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
       <artifactId>quickstart-jar-module</artifactId>
       <version>1.0.0-SNAPSHOT</version>
       <description>quickstart-jar-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-jar-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-jar-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-jar-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-jar-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-portlet-2-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-portlet-2-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-portlet-2-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-portlet-2-module</description>
     </archetype>
     <archetype>
       <groupId>org.amicofragile.sid-maven-archetypes</groupId>
@@ -29,9 +65,45 @@
     </archetype>
     <archetype>
       <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-openportal-driver-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-portlet-2-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>quickstart-openportal-driver-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>quickstart-portlet-2-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
       <artifactId>springmvc-3-ajax-enabled-module</artifactId>
       <version>1.0.0-SNAPSHOT</version>
       <description>springmvc-3-ajax-enabled-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>springmvc-3-ajax-enabled-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>springmvc-3-ajax-enabled-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>springmvc-3-ajax-enabled-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>springmvc-3-ajax-enabled-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>spring-3-based-ejb-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>spring-3-based-ejb-module</description>
+    </archetype>
+    <archetype>
+      <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+      <artifactId>spring-3-based-ejb-module</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>spring-3-based-ejb-module</description>
     </archetype>
     <archetype>
       <groupId>org.amicofragile.sid-maven-archetypes</groupId>
