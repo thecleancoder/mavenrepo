@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+  <artifactId>quickstart-openportal-driver-module</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <name>Openportal based portlet driver module archetype</name>
+  <description>Simple module archetype for OpenPortal Portlet Container based portlet 2.0 driver</description>
+  <parent>
+        <groupId>org.amicofragile.sid-maven-archetypes</groupId>
+        <artifactId>sid-maven-archetypes</artifactId>
+  	<version>1.0.0-SNAPSHOT</version>
+  </parent>
+  <url>https://bitbucket.org/amicofragile/sid-maven-archetypes</url>
+</project>
