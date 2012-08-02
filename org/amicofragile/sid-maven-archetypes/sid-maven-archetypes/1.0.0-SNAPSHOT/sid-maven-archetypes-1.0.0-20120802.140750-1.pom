@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.amicofragile.sid-maven-archetypes</groupId>
+	<artifactId>sid-maven-archetypes</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>sid-maven-archetypes</name>
+	<url>http://maven.apache.org</url>
+
+
+	<modules>
+		<module>quickstart-aggregator</module>
+		<module>quickstart-jar-module</module>
+		<module>quickstart-portlet-2-module</module>
+		<module>quickstart-openportal-driver-module</module>
+		<module>springmvc-3-ajax-enabled-module</module>
+		<module>spring-3-based-ejb-module</module>
+	</modules>
+
+	<distributionManagement>
+                <repository>
+                        <id>distribution-maven-repository</id>
+                        <url>${local-deploy-repository}</url>
+                </repository>
+        </distributionManagement>
+</project>
